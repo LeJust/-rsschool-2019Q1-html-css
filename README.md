@@ -1,1 +1,2 @@
-# -rsschool-2019Q1-html-css
+Arseni Shahaka
+HTML CSS Basics: https://www.codecademy.com/users/ArseniyShahaka/achievements
